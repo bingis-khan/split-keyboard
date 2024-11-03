@@ -14,3 +14,4 @@ Some cable will probably connect both parts. Ideally, either on the top, or a sp
 - I'll have to think more about positions of special keys. Reachability and position. I might also make them only accessible with `Fn` keys to shrink the keyboard even more (or increase the size of important keys, like `Enter`, `Shift`)
   - For example, make the bottom-left keys programmable. Also, maybe decrease the size of `Fn`, because it looks kinda stupid.
 - Special key for stuff like Vim.
+- Remove `LAlt` as I don't seem to be using it anyway.
